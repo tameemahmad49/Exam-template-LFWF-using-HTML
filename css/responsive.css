@@ -1,7 +1,9 @@
 /* some main css */
 
 
-
+.bannerSection {
+	overflow: hidden;
+}
 
 
 
@@ -1012,6 +1014,29 @@
   height: 70px;
 }
 
+
+
+
+
+  .leftWhy3.nav-tabs {
+    display: ruby;
+  }
+
+
+  .blogAll {
+    padding: 0 18px;
+  }
+  .nwsltrLeft input {
+    padding: 15px 40px;
+  }
+
+
+
+.leftWhy4 a {
+  font-size: 11px;
+}
+
+
 }
 
 
@@ -1153,7 +1178,6 @@
 
 
   .adSection2 p {
-    /* color: #ffffffc4; */
     color: #a6a1a1c4;
   }
 
