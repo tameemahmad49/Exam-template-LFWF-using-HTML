@@ -1,0 +1,1342 @@
+/* some main css */
+
+
+
+
+
+
+
+
+/* responsive css for a responsive site for all */
+
+@media (max-width:1178px) {
+     
+
+.nav-link.headerMenu8 {
+    margin: 0 5px;
+  }
+  
+  .singleCard {
+    padding: 22px 20px;
+  }
+  
+  .servcIconDiv {
+    padding: 8px;
+  }
+  
+  .singleCard p {
+    font-size: 12px;
+  }
+  
+  .singleCard h2 {
+    font-size: 16px;
+  }
+  
+  .priceSingleCard {
+    padding: 30px 30px;
+  }
+  
+  .priceSingleCard h2 {
+    font-size: 36px;
+  }
+  
+  .priceSingleCard ul {
+    padding: 7px 0;
+  }
+  
+  .priceBtn {
+    padding: 16px 28px;
+    font-size: 13px;
+  }
+  
+  .banner2head h1 {
+    font-size: 25px;
+  }
+  
+  .nwsltrLeft input {
+    padding: 15px 134px;
+    padding-left: 30px;
+  }
+  
+  .nwsltrLeft button a {
+    padding: 17px 26px;
+    font-size: 12px;
+  }
+  
+}
+
+
+
+@media (max-width:1024px) {
+
+
+.headerMenu6 {
+    margin-right: 14px;
+  }
+  
+  .leftBannerTxt {
+    padding-left: 82px;
+  }
+  
+  .nwsltrRight h3 {
+    font-size: 16px;
+  }
+  
+  .nwsltrLeft {
+    padding: 64px 48px;
+  }
+  
+  
+    .singleCard p {
+      margin: 0;
+    }
+  
+  
+}
+
+
+
+
+@media (max-width:991px) {
+
+   
+
+.rightBannerImg img {
+    border-radius: 143% 0 31% 50%;
+  }
+  
+  .serviceCardAll {
+    padding: 62px 0px;
+    display: block;
+  }
+  
+  .servcIconDiv {
+    width: 19%;
+  }
+  
+  .priceAll {
+    display: block !important;
+  }
+  
+  .priceSingleCard {
+    width: 400px;
+    margin: auto;
+  }
+  
+  .banner2head h1 {
+    width: 60%;
+  }
+  
+  .blogCparaDiv h2 {
+    font-size: 16px;
+  }
+  
+  .blogCparaDiv p {
+    font-size: 11px;
+  }
+  
+  .nwsltrAll {
+    display: block;
+  }
+  
+  .nwsltrLeft p {
+    text-align: left;
+  }
+  
+  .nwsltrLeft h2 {
+    text-align: left;
+  }
+  
+  .nwsltrRight {
+    width: 70%;
+    margin: 46px auto;
+    text-align: center;
+  }
+  
+  .nwsltrRight h3 {
+    text-align: left;
+  }
+  
+  .nwsltrRight p {
+    text-align: left;
+  }
+  
+  .serviceHead {
+    text-align: center;
+  }
+  
+  .serviceHead h1 {
+    margin: auto;
+    margin-top: 10px;
+  }
+  
+  .serviceHead hr {
+    margin: 10px auto;
+  }
+  
+  .serviceHead p {
+    margin: auto;
+  }
+  
+  .serviceHead h4 {
+    margin: 15px auto;
+  }
+  
+  .rightClient {
+    padding: 0;
+    padding-top: 30px;
+  }
+  
+  .rightClient img {
+    border: 1px solid #0000005e;
+    margin: 10px auto;
+  }
+  
+  .footerLinks {
+    padding-left: 20px;
+  }
+  
+  
+    .singleCard {
+      padding: 74px 20px;
+      width: 400px;
+      margin: auto;
+    }
+    .servcIconDiv {
+      padding: 16px;
+    }
+    .priceSingleCard {
+      padding: 51px 30px;
+      margin: 26px auto;
+    }
+    .nwsltrLeft button a {
+      margin: 15px 0;
+    }
+  
+  
+    .nwsltrLeft {
+      margin: auto;
+      text-align: center;
+    }
+    .nwsltrRight h3 {
+      font-size: 21px;
+    }
+  
+  
+  
+  .rightWhy {
+    display: flex;
+    align-items: center;
+  }
+
+  
+  .serviceHead.leftWhy2 h1, hr {
+    text-align: ;
+  }
+  
+  .serviceHead.leftWhy2 {
+  }
+  
+  .rightClient div {
+    border: none !important;
+  }
+
+
+
+
+.whySecTab {
+    padding-left: 0;
+    text-align: center;
+  }
+  
+  .leftWhy3.nav-tabs {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .leftWhy5 {
+    padding-left: 0;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .leftWhy5 ul {
+    text-align: left;
+    display: flex;
+  }
+  
+  .leftWhy5 ul li {
+    margin-left: 20px;
+  }
+  
+  .leftWhy5 p {
+    text-align: center;
+  }
+  
+  
+  .leftWhy {
+    text-align: center;
+  }
+  
+  
+
+}
+
+
+@media (max-width:900px) {
+
+
+.container-fluid.headerMenu3 img {
+    margin-left: 38px;
+  }
+  
+  .leftBannerTxt h1 {
+    font-size: 28px;
+  }
+  
+  .leftBannerTxt p {
+    font-size: 11px;
+  }
+  
+  .bannerBtn {
+    padding: 16px 24px;
+    font-size: 13px;
+  }
+  
+  .serviceHead h1 {
+    font-size: 24px;
+  }
+  
+  .serviceHead p {
+    font-size: 12px;
+  }
+  
+  .adSection2 h1 {
+    font-size: 34px;
+  }
+  
+  .adSection2 p {
+    font-size: 12px;
+  }
+  
+  .blogAll {
+    display: block;
+    padding: 0 100px;
+  }
+  
+  .blogSingleCard {
+    margin: 40px 20px;
+  }
+  
+  
+    .blogCparaDiv h2 {
+      font-size: 30px;
+    }
+    .blogCparaDiv p {
+      /* font-size: 11px; */
+      font-size: 15px;
+    }
+  
+  
+}
+
+
+
+
+
+@media (max-width:850px) {
+      
+
+.nav-link.headerMenu8 {
+  font-size: 12px;
+}
+
+.nav-link.headerMenu8:hover hr {
+  width: 25px;
+}
+
+.nav-link.headerMenu8.active hr {
+  width: 25px;
+}
+
+.drpdwn li a {
+  font-size: 13px;
+}
+
+.drpdwn {
+  left: -35px;
+}
+
+.menuBtn {
+  font-size: 13px;
+}
+
+.leftBannerTxt {
+  padding: 71px 100px;
+}
+
+
+  .leftBannerTxt {
+    padding-left: 57px;
+  }
+
+
+  .adSection2 h1 {
+    font-size: 25px;
+  }
+
+
+}
+
+
+
+@media (max-width:767px) {
+
+
+  .container-fluid.headerMenu3 img {
+    margin-left: 12px;
+  }
+  .leftBannerTxt h1 {
+    font-size: 22px;
+  }
+  .blogAll {
+    padding: 0 65px;
+  }
+  .blogCparaDiv h2 {
+    font-size: 20px;
+  }
+  .blogCparaDiv p {
+    font-size: 13px;
+  }
+
+
+  .menuBtn {
+    font-size: 12px;
+  }
+
+
+  .nav-link.headerMenu8 {
+    margin: 0 3px;
+  }
+
+
+  .singleCard {
+    padding: 40px 20px;
+    width: 300px;
+  }
+  .servcIconDiv {
+    width: 20%;
+  }
+  .servcIconDiv {
+    padding: 12px;
+  }
+  .priceSingleCard {
+    width: 319px;
+  }
+  .banner2head h1 {
+    width: 80%;
+  }
+  .nwsltrLeft h2 {
+    text-align: center;
+  }
+  .nwsltrLeft p {
+    text-align: center;
+  }
+  .nwsltrLeft button a {
+    width: 100%;
+    display: block;
+  }
+  .nwsltrRight {
+    width: 90%;
+  }
+  .nwsltrRight h3 {
+    text-align: center;
+  }
+  .nwsltrRight p {
+    text-align: center;
+  }
+
+
+
+.menuBtn {
+  padding: 10px 25px;
+}
+
+.container-fluid.headerMenu3 img {
+  width: 75px;
+}
+
+.whySectionCover {
+  display: block;
+}
+
+.priceSingleCard ul li {
+  font-size: 13px;
+}
+
+.nwsltrLeft {
+  width: 90%;
+}
+
+.nwsltrLeft p {
+  width: 100%;
+}
+
+
+.rightWhy img {
+  width: 300px;
+  margin: auto;
+  padding-top: 40px;
+}
+
+.nwsltrLeft button {
+  display: block;
+  width: 90%;
+  margin: auto;
+}
+
+}
+
+
+
+
+@media (max-width:700px) {
+
+
+  .menuBtn {
+    padding: 9px 19px;
+  }
+  .menuBtn {
+    font-size: 11px;
+  }
+  .container-fluid.headerMenu3 img {
+    margin-left: 7px;
+  }
+  .nav-link.headerMenu8 {
+    margin: 0 1px;
+  }
+
+
+  .leftBannerTxt {
+    padding: 71px 0px;
+  }
+
+
+
+.nav-link.headerMenu8.active hr {
+  top: 37px;
+}
+
+.nav-link.headerMenu8 hr {
+  top: 37px;
+}
+
+.nav-link.headerMenu8:hover hr {
+  top: 37px;
+}
+
+.leftBannerTxt {
+	padding-left: 55px;
+}
+
+}
+
+
+
+@media (max-width:640px) {
+
+
+.nwsltrLeft input {
+  text-align: center;
+}
+
+
+.container-fluid.headerMenu3 {
+  padding: 0;
+}
+
+}
+
+
+@media (max-width:610px) {
+
+
+  .headerMenu6 {
+    margin-right: 11px;
+  }
+
+
+  .menuBtn {
+    padding: 9px 10px;
+  }
+  .menuBtn {
+    font-size: 10px;
+  }
+  .leftBannerTxt {
+    position: relative;
+  }
+
+
+  .rightBannerImg img {
+    border-radius: 416% 0 113% 0%;
+    margin-top: -225px;
+  }
+
+
+#navbarID button {
+  padding: 0;
+}
+
+.rightWhy {
+  margin-top: -574px;
+}
+
+
+.bannerSection {
+  display: block;
+}
+
+.whySecTab {
+  position: relative;
+  margin-top: 350px;
+  display: block;
+}
+
+.whySection {
+  padding-bottom: 300px;
+}
+
+.copyRightText {
+  text-align: left !important;
+}
+
+}
+
+
+@media (max-width:591px) {
+  
+
+  .nav-link.headerMenu8:hover hr {
+    top: 36px;
+  }
+  .nav-link.headerMenu8.active hr {
+    top: 36px;
+  }
+
+
+
+.nav-link.headerMenu8:hover hr {
+  top: 36px;
+}
+
+.nav-link.headerMenu8.active hr {
+  top: 36px;
+}
+
+}
+
+
+
+
+@media (max-width:575px) {
+
+
+  .container-fluid.headerMenu3 img {
+    margin-left: 30px;
+  }
+  .leftBannerTxt {
+    padding: 71px 83px;
+  }
+  .leftBannerTxt {
+    padding-left: 96px;
+  }
+
+
+  .headerMenu6 {
+    display: flex;
+    justify-content: space-around;
+  }
+  .copyRightText {
+    padding-left: 26px;
+  }
+
+
+  .blogAll {
+    padding: 0 89px;
+  }
+  .nwsltrLeft button {
+    width: 82%;
+  }
+  .nwsltrRight {
+    margin-bottom: 0;
+  }
+
+
+
+.navbar-nav.headerMenu7 hr {
+  display: none !important;
+}
+
+.navbar-nav.headerMenu7 {
+}
+
+.allFooter {
+  padding: 0 40px;
+}
+
+
+
+.headerMenu3 {
+  margin-right: 30px;
+}
+
+
+.headerMenu7 ul li {
+  padding: 0 8px;
+}
+
+.headerMenu7 ul {
+}
+
+.serviceSection {
+  padding: 55px 0;
+}
+
+.mainService {
+  padding-bottom: 20px;
+}
+
+.whySection {
+  padding: 30px 0;
+}
+
+.adSection {
+  padding: 70px 0;
+}
+
+.priceAll {
+  padding: 40px 0;
+}
+
+.priceSection {
+  padding: 60px 0;
+}
+
+.banner2Section {
+  padding: 60px 0;
+}
+
+.blogSection {
+  padding: 50px 0;
+}
+
+.blogCparaDiv p {
+  width: 95%;
+}
+
+.nwsltrSection {
+  padding: 70px 0;
+}
+
+.clientSection {
+  padding: 50px 0;
+}
+
+
+.whySection {
+	padding-bottom: 300px;
+}
+
+}
+
+
+
+
+@media (max-width:514px) {
+   
+
+.serviceHead h1 {
+  width: 100%;
+}
+
+.serviceHead p {
+  width: 100%;
+}
+
+.headerMenu7 ul {
+  display: block;
+}
+
+.drpdwn li {
+  line-height: 28px;
+}
+
+.leftWhy5 ul {
+  margin: 0;
+}
+
+.leftWhy5 ul li {
+  line-height: 32px;
+}
+
+.nwsltrLeft h2 {
+  font-size: 29px;
+}
+
+.nwsltrLeft p {
+  font-size: 13px;
+}
+
+.copyRightText {
+  font-size: 12px;
+}
+
+
+  .headerMenu6 {
+    margin-right: 0;
+  }
+  #navbarID button {
+    margin-left: 30px;
+    margin-top: 10px;
+  }
+
+
+  .headerMenu3 {
+    margin-right: 20px;
+  }
+  .headerMenu6 {
+    display: block;
+  }
+  .headerMenu7 ul {
+    display: inline-table;
+    padding-left: 26px;
+  }
+  .blogAll {
+    padding: 0 50px;
+  }
+  .nwsltrLeft button {
+    width: 100%;
+  }
+
+
+  .nav-link.headerMenu8 {
+    display: inline-block;
+  }
+
+
+  .drpdwn {
+    /* left: -35px; */
+    left: 50px;
+  }
+
+
+  .leftWhy5 ul li {
+    margin-left: 8px;
+  }
+  .leftWhy5 ul {
+    display: block;
+    text-align: center;
+  }
+
+
+  .banner2head h1 {
+    width: 100%;
+  }
+
+
+}
+
+
+
+
+
+
+@media (max-width:450px) {
+
+
+  .rightBannerImg img {
+    border-radius: 50%;
+    width: 275px;
+    height: 275px;
+  }
+
+
+  .rightWhy img {
+    padding-top: 0;
+  }
+  .blogCparaDiv p {
+    font-size: 12px;
+  }
+
+
+  .adSection2 h1 {
+    font-size: 23px;
+  }
+
+
+  .blogCparaDiv p {
+    width: 80%;
+}
+
+  .nwsltrLeft {
+    padding: 40px 36px;
+  }
+
+
+  .nwsltrLeft h2 {
+    font-size: 25px;
+  }
+  .nwsltrLeft p {
+    font-size: 12px;
+  }
+
+
+  .nwsltrRight h3 {
+    font-size: 19px;
+  }
+  .footerLinks {
+    padding-top: 20px;
+  }
+
+
+
+.rightBannerImg {
+  display: block;
+  text-align: right;
+  margin-right: -60px;
+}
+
+.nwsltrRight p {
+  font-size: 12px;
+}
+
+.footerLogoline img {
+  width: 100px;
+}
+
+.footerLogoline p {
+  padding: 20px 0px;
+  font-size: 12px;
+  width: 90%;
+}
+
+#return-to-top {
+  width: 40px;
+  height: 40px;
+}
+
+#return-to-top i {
+  left: 14px;
+  top: 9px;
+  font-size: 17px;
+}
+
+}
+
+
+
+
+
+
+@media (max-width:425px) {
+
+
+  .leftBannerTxt {
+    padding-left: 61px;
+  }
+  .copyRightText {
+    padding-left: 12px;
+  }
+
+
+  .serviceHead h1 {
+    font-size: 22px;
+  }
+  .serviceHead p {
+    font-size: 11px;
+  }
+
+
+  .blogCparaDiv p {
+    width: 90%;
+  }
+  .nwsltrRight h3 {
+    font-size: 17px;
+  }
+  .adSection2 h1 {
+    font-size: 21px;
+  }
+  #return-to-top {
+    width: 30px;
+    height: 30px;
+  }
+  #return-to-top i {
+    left: 9.5px;
+    top: 2px;
+    font-size: 14px;
+  }
+
+
+  .nwsltrLeft input {
+    padding: 15px 59px;
+  }
+
+
+  .blogAll {
+    padding: 0 40px;
+  }
+
+
+
+.leftWhy5 p {
+  width: 100%;
+  font-size: 13px;
+}
+
+.copyRightText {
+  padding: 25px 0;
+}
+
+.serviceHead h4 {
+  font-size: 13px;
+}
+
+#return-to-top:hover i {
+  top: 0px;
+}
+
+#button {
+  width: 70px;
+  height: 70px;
+}
+
+}
+
+
+@media (max-width:360px) {
+
+
+  .serviceHead h1 {
+    font-size: 18px;
+  }
+  .serviceHead h4 {
+    font-size: 11px;
+  }
+  .adSection2 h1 {
+    font-size: 17px;
+  }
+  .blogAll {
+    padding: 0 15px;
+  }
+  .nwsltrLeft input {
+    padding: 15px;
+    width: 100%;
+  }
+  .copyRightText {
+    padding: 20px 0;
+    padding-left: 7px;
+  }
+  .leftBannerTxt {
+    padding: 45px 83px;
+  }
+
+  .leftBannerTxt {
+    padding-left: 44px;
+  }
+  .leftWhy5 p {
+    font-size: 12px;
+ }
+
+  .serviceCardAll {
+    padding: 61px 29px;
+  }
+  .leftWhy3.nav-tabs {
+    justify-content: ;
+  }
+  .rightClient img {
+    margin: 10px 0px;
+  }
+
+
+  .singleCard {
+    width: 100%;
+  }
+  .servcIconDiv {
+    padding: 9px;
+  }
+  .priceSingleCard {
+    width: 100%;
+  }
+
+
+  .rightWhy {
+    margin-top: -545px;
+    padding: 0px 30px;
+  }
+  .whySecTab {
+    margin-top: 320px;
+  }
+
+
+  .priceAll {
+    padding: 40px 27px;
+  }
+ 
+
+  .footerLogoline p {
+    width: 98%;
+  }
+
+
+  .copyRightText {
+    font-size: 11px;
+  }
+
+
+  .priceBtn {
+    font-size: 12px;
+  }
+
+
+.leftWhy4 a {
+  padding: 9px 18px;
+  font-size: 12px;
+}
+
+#button {
+  font-size: 22px;
+}
+
+.banner2btn {
+  font-size: 13px;
+}
+
+.blogHead {
+  padding-bottom: 20px;
+}
+
+.nwsltrLeft input {
+  font-size: 12px;
+}
+
+.footerLinks h2 {
+  font-size: 15px;
+}
+
+.footerLinks ul li a {
+  font-size: 12px;
+}
+
+.footerSection {
+  padding: 55px 0;
+  padding-bottom: 1px;
+}
+
+.rightClient img {
+  padding: 20px 0px;
+}
+
+.adSection2 p {
+  color: #ffffffc4;
+}
+
+
+
+  .menuBtn {
+    margin-bottom: 20px;
+    display: block;
+  }
+
+
+
+
+  .adSection2 p {
+    /* color: #ffffffc4; */
+    color: #a6a1a1c4;
+  }
+
+
+  .nwsltrLeft button a:hover {
+    background: white;
+    color: #3763eb;
+    transform: inherit;
+  }
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:340px) {
+
+
+  .bannerBtn {
+    padding: 15px 23px;
+    font-size: 11px;
+  }
+
+
+  .serviceHead h1 {
+    font-size: 16px;
+  }
+  .adSection2 p {
+    color: #8e8e8ec4;
+  }
+
+
+  .serviceHead p {
+    font-size: 12px;
+  }
+
+
+  .whySection {
+    padding-bottom: 320px;
+  }
+
+
+
+.servcIconDiv span i {
+  font-size: 18px;
+}
+
+.bscInnerDiv p {
+  font-size: 9px;
+}
+
+.bscInnerDiv {
+  width: 130px;
+}
+
+}
+
+
+
+
+
+
+
+
+@media (max-width:330px) {
+
+
+  .leftWhy3.nav-tabs {
+    display: block ruby;
+  }
+
+
+  .banner2btn {
+    font-size: 12px;
+  }
+  .blogAll {
+    padding: 0 5px;
+  }
+
+
+  .blogCparaDiv p {
+    font-size: 11px;
+  }
+  .nwsltrLeft p {
+    font-size: 11px;
+  }
+
+
+  .allFooter {
+    padding: 0 18px;
+  }
+
+
+
+.leftWhy5 ul li {
+  font-size: 12px;
+}
+
+.bscInnerDiv {
+  bottom: 4px;
+  right: 4px;
+}
+
+.servcIconDiv {
+	padding: 0;
+	height: 35px;
+	width: 35px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+}
+
+
+
+
+
+
+
+@media (max-width:320px) {
+
+
+  .leftWhy3.nav-tabs {
+    display: flex;
+  }
+
+
+  .whySecTab {
+    margin-top: 240px;
+  }
+  .serviceCardAll {
+    padding: 61px 7px;
+  }
+  .priceAll {
+    padding: 40px 18px;
+  }
+
+
+  .whySection {
+    padding-bottom: 390px;
+  }
+
+
+  .priceSingleCard {
+    padding: 34px 16px;
+  }
+
+
+
+.leftWhy4 {
+  margin: 10px 0;
+}
+
+
+.serviceHead {
+  padding: 0 20px;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
